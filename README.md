@@ -18,13 +18,7 @@
 
 ### La librería extra que usé es Material UI : https://material-ui.com/
 
-Para darle estilos con los componentes que tiene la librería como Botones, Inputs, Select, Box, etc. que en mi caso use estilos muy básicos que fueron muy intuitivos al momento aplicarlos. Fue una experiencia muy agradable que poco a poco iré profundizando más en su gran utilidad.
 
-
-**Ver online**: https://hrchioest.github.io/react-ecommerce/ 
-
-Dejo la vista previa de lo logrado:
-![Frame 2](https://user-images.githubusercontent.com/53129859/111939642-8af0a700-8aab-11eb-8206-af0f282949b1.png)
 
 
 
